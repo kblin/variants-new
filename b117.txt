@@ -1,1 +1,2 @@
 Almost all sequences contain N501Y
+It also contains A570D
